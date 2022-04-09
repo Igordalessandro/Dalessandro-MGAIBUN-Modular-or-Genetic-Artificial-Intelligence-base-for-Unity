@@ -5,6 +5,8 @@ No X-ray demo:
 
 [![No X-ray demo](https://img.youtube.com/vi/xyOmNbeC46A/0.jpg)](https://www.youtube.com/watch?v=xyOmNbeC46A)
 
+(Note: Near the end blue ball stops hunting for some secs since it's not hunger anymore)
+
 Before we start: This project is under BSD-3-Clause!
 In a Nutshell: 3-clause: "require your permission before mentioning your name for any work built on top of your software"
 
