@@ -11,15 +11,25 @@ be at least proficient in object oriented programming (you can just follow the a
 
 Project Main Features:
   1- Uses Unity Deafult Pathfinding.
+
   2- Modular needs system (make your own AI needs, like hunger(*implemented as example*) and thirst).
+
   3- Modular sensorial system (make your own AI sensors, like vision(*implemented as example*) and hearing).
+
   4- Can be stripped of subsystems or recive new ones in realtime (like gaing and lossing traits/genes).
+
   5- Uses Scriptable objects.
+
   6- Capable of detaching sensors(parent-child object behavior) from body (like multiple eyes(vision sensor) placement).
+
   6.5 - Comunication network that will not allow the AI pool to generate duplicates from multiple eyes/sensors.
+
   7- Well documented Wiki wrote by myself with the focus of teaching the system.
+
   8- Comes with 3 tech demos(simple, Xray test and Stress Test) and instructions(wiki) for easy setup so you can try out yourself.
+
   9- Comes with implemented AI Sight (FOV), AI Hunger Need, AI food (DevApple).
+
   10- All implementations are also packed into simple prefabs.
   11- Secure!, Almost no use of Public var! the only few used were used only to be serialized in unity editor (for easy learning).
   12- Broken down into DLL's in such a way that even if you customize the system it will try to avoid spaghetti code and self referencing.
