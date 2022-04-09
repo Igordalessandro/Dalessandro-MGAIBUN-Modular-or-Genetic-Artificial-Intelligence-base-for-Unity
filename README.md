@@ -1,7 +1,7 @@
 # Dalessandro-MGAIBUN-Modular-or-Genetic-Artificial-Intelligence-base-for-Unity
 Made for unity 2021.2.8f1
 
-No X-ray demo:
+No X-ray demo: (It's a video, click on the image.)
 
 [![No X-ray demo](https://img.youtube.com/vi/xyOmNbeC46A/0.jpg)](https://www.youtube.com/watch?v=xyOmNbeC46A)
 
@@ -24,7 +24,9 @@ that checks if the object is visible to the AI (no xray vision). There are 2 mai
 layer will mark what is a object visible to the AI, and the Solid (you need to create this filter layer) layer will mark obstacles (no-xray demo shows off this feature).
 All features are fully customizable, the features were made in a way that it's easy to expand and the details can be edited in unity itself (or code, it's full of comments.).  
 
-What non beginner knowlogy you require to learn from this project:            (REQUIREMENTS)
+(REQUIREMENTS)
+
+What non beginner knowlogy you require to learn from this project:            
 
 C# interfaces, 
 
@@ -36,7 +38,9 @@ be at least proficient in object oriented programming (you can just follow the a
 
 Unity Pathfinding (only the how-to-bake part).
 
-Project Main Features:                                                         (FEATURES)
+(FEATURES)
+
+Project Main Features:                                                         
  
   1- Uses Unity Deafult Pathfinding.
 
@@ -68,5 +72,12 @@ Project Main Features:                                                         (
 
   14- Editor with Gizmos (Dev-View), you can see what the AI is doing/tracking with the Scene Editor in real time.
  
+(STRESS TEST)
 
+Tested on: I.5-3570k-OC-4.1Ghz, GTX960 Strix 6gb, 24gb ram ddr3.
 
+Test parameters: 200 AI clones. (4 clusters of 50). and over 1800 misc objects (ground,walls,AI Food.) + native engine ilumination. 
+
+Result: 60FPS or more on avarage. (while recording).
+
+[![Stress Test](https://img.youtube.com/vi/sPSbKpWyK2s/0.jpg)](https://www.youtube.com/watch?v=sPSbKpWyK2s)
