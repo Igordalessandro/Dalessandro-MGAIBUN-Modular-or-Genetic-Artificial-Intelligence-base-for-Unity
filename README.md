@@ -7,9 +7,14 @@ Before we start: This project is under BSD-3-Clause!
 In a Nutshell: 3-clause: "require your permission before mentioning your name for any work built on top of your software"
 
 This project is a base for building a 3D AI game. I made it for teaching intermediate unity 3d for some friends, Feel free to use this project to learn as well.
-What non beginner knowlogy you require to learn from this project: C# interfaces, C# assembly references, Unity Mesh Generation (if you want to make your own sensors),
-be at least proficient in object oriented programming (you can just follow the already made code order/structure if you are still learning this) and Unity Pathfinding
-(only the how-to-bake part).
+
+What non beginner knowlogy you require to learn from this project: (REQUIREMENTS)
+
+C# interfaces, 
+C# assembly references,
+Unity Mesh Generation (if you want to make your own sensors),
+be at least proficient in object oriented programming (you can just follow the already made code order/structure if you are still learning this)
+Unity Pathfinding (only the how-to-bake part).
 
 Project Main Features:
   1- Uses Unity Deafult Pathfinding.
