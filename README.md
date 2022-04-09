@@ -1,6 +1,8 @@
 # Dalessandro-MGAIBUN-Modular-or-Genetic-Artificial-Intelligence-base-for-Unity
 Made for unity 2021.2.8f1
 
+No X-ray demo:
+
 Before we start: This project is under BSD-3-Clause!
 In a Nutshell: 3-clause: "require your permission before mentioning your name for any work built on top of your software"
 
@@ -31,9 +33,13 @@ Project Main Features:
   9- Comes with implemented AI Sight (FOV), AI Hunger Need, AI food (DevApple).
 
   10- All implementations are also packed into simple prefabs.
+
   11- Secure!, Almost no use of Public var! the only few used were used only to be serialized in unity editor (for easy learning).
+
   12- Broken down into DLL's in such a way that even if you customize the system it will try to avoid spaghetti code and self referencing.
+
   13- Simple system, code is full of comments, and it's Stress Tested! (Stress demo included!).
+
   14- Editor with Gizmos (Dev-View), you can see what the AI is doing/tracking with the Scene Editor in real time.
  
  So what it does?
