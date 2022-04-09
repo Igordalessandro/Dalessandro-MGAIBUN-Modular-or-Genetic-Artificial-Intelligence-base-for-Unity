@@ -78,6 +78,6 @@ Tested on: I.5-3570k-OC-4.1Ghz, GTX960 Strix 6gb, 24gb ram ddr3.
 
 Test parameters: 200 AI clones. (4 clusters of 50). and over 1800 misc objects (ground,walls,AI Food.) + native engine ilumination. 
 
-Result: 60FPS or more on avarage. (while recording).
+Result: 60FPS or more on avarage. (while recording, click on the image below for the video.).
 
 [![Stress Test](https://img.youtube.com/vi/sPSbKpWyK2s/0.jpg)](https://www.youtube.com/watch?v=sPSbKpWyK2s)
