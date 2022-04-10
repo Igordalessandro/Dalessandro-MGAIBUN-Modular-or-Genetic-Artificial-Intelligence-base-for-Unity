@@ -8,6 +8,8 @@ Self explanatory video: No X-ray demo (**It's a video**, click on the image.)
 
 (Note: Near the end blue ball stops hunting for some secs since it's not hunger anymore)
 
+This is an AI Base that can be expanded, I made it myself using my own concepts of what an AI should be. I did not follow any tutorial or guide to make this, so it might be a little wierd. It's made to work like how i think a human mind works so that is why it might be wierd, but it works, it expansible and may be lightweight.
+
 Before we start: This project is under BSD-3-Clause!  
 In a Nutshell: 3-clause: "require your permission before mentioning your name for any work built on top of your software"  
 
