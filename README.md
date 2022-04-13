@@ -14,6 +14,7 @@ Before we start: This project is under BSD-3-Clause!
 In a Nutshell: 3-clause: "require your permission before mentioning your name for any work built on top of your software"  
 
 This project is a base for building a 3D AI game. I made it for teaching intermediate unity 3d for some friends, Feel free to use this project to learn as well.
+The [Wiki](https://github.com/Igordalessandro/Dalessandro-MGAIBUN-Modular-or-Genetic-Artificial-Intelligence-base-for-Unity/wiki) provides full documentation to the project, i would recommend taking a look at it before getting started.
 
 # **Description**
 
@@ -59,6 +60,10 @@ Obs: None of the above will be coverded in the wiki.
   13- Simple system, code is full of comments, and it's Stress Tested! (Stress demo included!).  
   14- Editor with Gizmos (Dev-View), you can see what the AI is doing/tracking with the Scene Editor in real time.  
  
+# Download and install
+[Download here.](https://github.com/Igordalessandro/Dalessandro-MGAIBUN-Modular-or-Genetic-Artificial-Intelligence-base-for-Unity/releases)  
+[Install tutorial here.](https://github.com/Igordalessandro/Dalessandro-MGAIBUN-Modular-or-Genetic-Artificial-Intelligence-base-for-Unity/wiki/Basic-install-and-getting-started)  
+
 # Stress test
 
 Tested on: I.5-3570k-OC-4.1Ghz, GTX960 Strix 6gb, 24gb ram ddr3.  
